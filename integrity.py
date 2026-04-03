@@ -7,4 +7,4 @@ if data == reverse_data:
 else:
     print("Data Corrupted or Modified")
     
-    #End
+    #End of code
