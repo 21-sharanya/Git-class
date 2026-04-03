@@ -12,3 +12,5 @@ def myPow(x, n):
         n //= 2
 
     return result
+
+#end of code
